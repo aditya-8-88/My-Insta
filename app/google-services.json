@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193781856414",
+    "project_id": "my-insta-a3168",
+    "storage_bucket": "my-insta-a3168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193781856414:android:9475376fb0d8355b2b238f",
+        "android_client_info": {
+          "package_name": "com.example.insta_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxLozck7LT19kd1W13XbgOjCEcl6VoaIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
